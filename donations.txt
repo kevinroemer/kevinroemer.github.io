@@ -1,4 +1,4 @@
-Bitcoin (btc) : bc1qz2kna3z5mdspewy06u5zl6n8gqpnhgvq2chuw4
+Bitcoin (BTC) : bc1qz2kna3z5mdspewy06u5zl6n8gqpnhgvq2chuw4
 Ether (ETH) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
 Tether (USDT) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
 USD Coin (USDC) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
