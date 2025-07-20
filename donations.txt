@@ -1,4 +1,5 @@
-Bitcoin (btc) : bc1qdg9gvzq78uc8e0v9ddq6fx49vne67vf0mapw66
-Litecoin (ltc) : MLN65BNcBP4sCxr5mdaURcYtDCcS9G82Zg
-Tether  (USDT) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
+Bitcoin (btc) : bc1qz2kna3z5mdspewy06u5zl6n8gqpnhgvq2chuw4
+Tether (USDT) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
 USD Coin (USDC) : 0xb0f479f9f225b3fbb0d3b9a4c3498509745f7acb
+Stellar (XLM) : GDKB5KIF2RUJOODSMDUIEI2E5Q4P4L2TUJ7I7RQRR3H7VJSN5OUIKMY3
+Bitcoin Cash (BCH) : qryfv5znhs2zfn7654uqy587xrwt0rv0jq7gey4qey
